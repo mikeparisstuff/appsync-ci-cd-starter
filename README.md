@@ -1,4 +1,4 @@
-# Project Title
+# CI / CD for AWS AppSync Starter Kit
 
 This repository serves as a starting point for teams that want to build a continuous integration and deployment
 pipeline for AWS AppSync applications.
