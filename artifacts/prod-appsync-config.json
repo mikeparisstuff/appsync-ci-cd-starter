@@ -1,0 +1,6 @@
+{
+    "Parameters" : {
+        "APIName": "ProdAPIWithCICD",
+        "TableName": "ProdPostTable"
+    }
+}
